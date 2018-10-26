@@ -1,0 +1,19 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\bin\Debug\Ticket Purchasing.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\bin\Debug\Ticket Purchasing.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\bin\Debug\Ticket Purchasing.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\obj\Debug\Ticket Purchasing.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\obj\Debug\Ticket_Purchasing.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\obj\Debug\Ticket_Purchasing.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\obj\Debug\Ticket Purchasing.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\obj\Debug\Ticket Purchasing.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\obj\Debug\Ticket Purchasing.pdb
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\bin\Debug\Ticket Purchasing.exe.config
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\bin\Debug\Ticket Purchasing.exe
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\bin\Debug\Ticket Purchasing.pdb
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\obj\Debug\Ticket Purchasing.csprojResolveAssemblyReference.cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\obj\Debug\Ticket_Purchasing.Form1.resources
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\obj\Debug\Ticket_Purchasing.Properties.Resources.resources
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\obj\Debug\Ticket Purchasing.csproj.GenerateResource.Cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\obj\Debug\Ticket Purchasing.csproj.CoreCompileInputs.cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\obj\Debug\Ticket Purchasing.exe
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.20.2018 - Tues\Ticket Purchasing\Ticket Purchasing\obj\Debug\Ticket Purchasing.pdb
