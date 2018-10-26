@@ -1,0 +1,37 @@
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.csprojResolveAssemblyReference.cache
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price_and_Tip_Calculator.Form1.resources
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.csproj.GenerateResource.Cache
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Bill\Price and Tip Calculator\bin\Debug\Price and Tip Calculator.exe.config
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Bill\Price and Tip Calculator\bin\Debug\Price and Tip Calculator.exe
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Bill\Price and Tip Calculator\bin\Debug\Price and Tip Calculator.pdb
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Bill\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.csprojResolveAssemblyReference.cache
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Bill\Price and Tip Calculator\obj\Debug\Price_and_Tip_Calculator.Form1.resources
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Bill\Price and Tip Calculator\obj\Debug\Price_And_Tip_Calculator.Properties.Resources.resources
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Bill\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.csproj.GenerateResource.Cache
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Bill\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.exe
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Bill\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.pdb
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Price and Tip Calculator\Price and Tip Calculator\bin\Debug\Price and Tip Calculator.exe.config
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.exe
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.pdb
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Price and Tip Calculator\Price and Tip Calculator\bin\Debug\Price and Tip Calculator.exe
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Price and Tip Calculator\Price and Tip Calculator\bin\Debug\Price and Tip Calculator.pdb
+C:\Users\mhm85\Desktop\Spring 2018 C#\Tues 01.30.18\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price_And_Tip_Calculator.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\bin\Debug\Price and Tip Calculator.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\bin\Debug\Price and Tip Calculator.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\bin\Debug\Price and Tip Calculator.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price_and_Tip_Calculator.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price_And_Tip_Calculator.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.csproj.GenerateResource.Cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\bin\Debug\Price and Tip Calculator.exe.config
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\bin\Debug\Price and Tip Calculator.exe
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\bin\Debug\Price and Tip Calculator.pdb
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.csprojResolveAssemblyReference.cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price_and_Tip_Calculator.Form1.resources
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price_And_Tip_Calculator.Properties.Resources.resources
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.csproj.GenerateResource.Cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.csproj.CoreCompileInputs.cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.exe
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\01.30.2018 - Tues\Price and Tip Calculator\Price and Tip Calculator\obj\Debug\Price and Tip Calculator.pdb
