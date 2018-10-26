@@ -1,0 +1,19 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\02.15.18 - Thurs\MovieTime\MovieTime\bin\Debug\MovieTime.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\02.15.18 - Thurs\MovieTime\MovieTime\obj\Debug\MovieTime.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\02.15.18 - Thurs\MovieTime\MovieTime\obj\Debug\MovieTime.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\02.15.18 - Thurs\MovieTime\MovieTime\obj\Debug\MovieTime.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\02.15.18 - Thurs\MovieTime\MovieTime\obj\Debug\MovieTime.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\02.15.18 - Thurs\MovieTime\MovieTime\bin\Debug\MovieTime.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\02.15.18 - Thurs\MovieTime\MovieTime\bin\Debug\MovieTime.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\02.15.18 - Thurs\MovieTime\MovieTime\obj\Debug\MovieTime.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\02.15.18 - Thurs\MovieTime\MovieTime\obj\Debug\MovieTime.pdb
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.15.2018 - Thurs\MovieTime\MovieTime\bin\Debug\MovieTime.exe.config
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.15.2018 - Thurs\MovieTime\MovieTime\bin\Debug\MovieTime.exe
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.15.2018 - Thurs\MovieTime\MovieTime\bin\Debug\MovieTime.pdb
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.15.2018 - Thurs\MovieTime\MovieTime\obj\Debug\MovieTime.csprojResolveAssemblyReference.cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.15.2018 - Thurs\MovieTime\MovieTime\obj\Debug\MovieTime.Form1.resources
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.15.2018 - Thurs\MovieTime\MovieTime\obj\Debug\MovieTime.Properties.Resources.resources
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.15.2018 - Thurs\MovieTime\MovieTime\obj\Debug\MovieTime.csproj.GenerateResource.Cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.15.2018 - Thurs\MovieTime\MovieTime\obj\Debug\MovieTime.csproj.CoreCompileInputs.cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.15.2018 - Thurs\MovieTime\MovieTime\obj\Debug\MovieTime.exe
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.15.2018 - Thurs\MovieTime\MovieTime\obj\Debug\MovieTime.pdb
