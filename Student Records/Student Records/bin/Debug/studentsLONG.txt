@@ -1,0 +1,5304 @@
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+4.00
+3
+Adam K. Wilson
+3.96
+2
+Jon B. Johansen
+3.95
+1
+Jana L. Morisson
+3.94
+0
+Tina W. Pearson
+3.76
+3
+Tim A. Allen
+3.75
+2
+George W. Morris
+3.74
+2
+John A. Smith
+3.51
+0
+Jill B. Carter
+3.50
+3
+Adam K. Wilson
+3.49
+2
+Jon B. Johansen
+3.00
+1
+Jana L. Morisson
+2.51
+0
+Tina W. Pearson
+2.50
+3
+Tim A. Allen
+2.49
+2
+George W. Morris
+0.00
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+4.00
+3
+Adam K. Wilson
+3.96
+2
+Jon B. Johansen
+3.95
+1
+Jana L. Morisson
+3.94
+0
+Tina W. Pearson
+3.76
+3
+Tim A. Allen
+3.75
+2
+George W. Morris
+3.74
+2
+John A. Smith
+3.51
+0
+Jill B. Carter
+3.50
+3
+Adam K. Wilson
+3.49
+2
+Jon B. Johansen
+3.00
+1
+Jana L. Morisson
+2.51
+0
+Tina W. Pearson
+2.50
+3
+Tim A. Allen
+2.49
+2
+George W. Morris
+0.00
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+4.00
+3
+Adam K. Wilson
+3.96
+2
+Jon B. Johansen
+3.95
+1
+Jana L. Morisson
+3.94
+0
+Tina W. Pearson
+3.76
+3
+Tim A. Allen
+3.75
+2
+George W. Morris
+3.74
+2
+John A. Smith
+3.51
+0
+Jill B. Carter
+3.50
+3
+Adam K. Wilson
+3.49
+2
+Jon B. Johansen
+3.00
+1
+Jana L. Morisson
+2.51
+0
+Tina W. Pearson
+2.50
+3
+Tim A. Allen
+2.49
+2
+George W. Morris
+0.00
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+4.00
+3
+Adam K. Wilson
+3.96
+2
+Jon B. Johansen
+3.95
+1
+Jana L. Morisson
+3.94
+0
+Tina W. Pearson
+3.76
+3
+Tim A. Allen
+3.75
+2
+George W. Morris
+3.74
+2
+John A. Smith
+3.51
+0
+Jill B. Carter
+3.50
+3
+Adam K. Wilson
+3.49
+2
+Jon B. Johansen
+3.00
+1
+Jana L. Morisson
+2.51
+0
+Tina W. Pearson
+2.50
+3
+Tim A. Allen
+2.49
+2
+George W. Morris
+0.00
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+4.00
+3
+Adam K. Wilson
+3.96
+2
+Jon B. Johansen
+3.95
+1
+Jana L. Morisson
+3.94
+0
+Tina W. Pearson
+3.76
+3
+Tim A. Allen
+3.75
+2
+George W. Morris
+3.74
+2
+John A. Smith
+3.51
+0
+Jill B. Carter
+3.50
+3
+Adam K. Wilson
+3.49
+2
+Jon B. Johansen
+3.00
+1
+Jana L. Morisson
+2.51
+0
+Tina W. Pearson
+2.50
+3
+Tim A. Allen
+2.49
+2
+George W. Morris
+0.00
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+4.00
+3
+Adam K. Wilson
+3.96
+2
+Jon B. Johansen
+3.95
+1
+Jana L. Morisson
+3.94
+0
+Tina W. Pearson
+3.76
+3
+Tim A. Allen
+3.75
+2
+George W. Morris
+3.74
+2
+John A. Smith
+3.51
+0
+Jill B. Carter
+3.50
+3
+Adam K. Wilson
+3.49
+2
+Jon B. Johansen
+3.00
+1
+Jana L. Morisson
+2.51
+0
+Tina W. Pearson
+2.50
+3
+Tim A. Allen
+2.49
+2
+George W. Morris
+0.00
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+4.00
+3
+Adam K. Wilson
+3.96
+2
+Jon B. Johansen
+3.95
+1
+Jana L. Morisson
+3.94
+0
+Tina W. Pearson
+3.76
+3
+Tim A. Allen
+3.75
+2
+George W. Morris
+3.74
+2
+John A. Smith
+3.51
+0
+Jill B. Carter
+3.50
+3
+Adam K. Wilson
+3.49
+2
+Jon B. Johansen
+3.00
+1
+Jana L. Morisson
+2.51
+0
+Tina W. Pearson
+2.50
+3
+Tim A. Allen
+2.49
+2
+George W. Morris
+0.00
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+4.00
+3
+Adam K. Wilson
+3.96
+2
+Jon B. Johansen
+3.95
+1
+Jana L. Morisson
+3.94
+0
+Tina W. Pearson
+3.76
+3
+Tim A. Allen
+3.75
+2
+George W. Morris
+3.74
+2
+John A. Smith
+3.51
+0
+Jill B. Carter
+3.50
+3
+Adam K. Wilson
+3.49
+2
+Jon B. Johansen
+3.00
+1
+Jana L. Morisson
+2.51
+0
+Tina W. Pearson
+2.50
+3
+Tim A. Allen
+2.49
+2
+George W. Morris
+0.00
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+4.00
+3
+Adam K. Wilson
+3.96
+2
+Jon B. Johansen
+3.95
+1
+Jana L. Morisson
+3.94
+0
+Tina W. Pearson
+3.76
+3
+Tim A. Allen
+3.75
+2
+George W. Morris
+3.74
+2
+John A. Smith
+3.51
+0
+Jill B. Carter
+3.50
+3
+Adam K. Wilson
+3.49
+2
+Jon B. Johansen
+3.00
+1
+Jana L. Morisson
+2.51
+0
+Tina W. Pearson
+2.50
+3
+Tim A. Allen
+2.49
+2
+George W. Morris
+0.00
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+4.00
+3
+Adam K. Wilson
+3.96
+2
+Jon B. Johansen
+3.95
+1
+Jana L. Morisson
+3.94
+0
+Tina W. Pearson
+3.76
+3
+Tim A. Allen
+3.75
+2
+George W. Morris
+3.74
+2
+John A. Smith
+3.51
+0
+Jill B. Carter
+3.50
+3
+Adam K. Wilson
+3.49
+2
+Jon B. Johansen
+3.00
+1
+Jana L. Morisson
+2.51
+0
+Tina W. Pearson
+2.50
+3
+Tim A. Allen
+2.49
+2
+George W. Morris
+0.00
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+4.00
+3
+Adam K. Wilson
+3.96
+2
+Jon B. Johansen
+3.95
+1
+Jana L. Morisson
+3.94
+0
+Tina W. Pearson
+3.76
+3
+Tim A. Allen
+3.75
+2
+George W. Morris
+3.74
+2
+John A. Smith
+3.51
+0
+Jill B. Carter
+3.50
+3
+Adam K. Wilson
+3.49
+2
+Jon B. Johansen
+3.00
+1
+Jana L. Morisson
+2.51
+0
+Tina W. Pearson
+2.50
+3
+Tim A. Allen
+2.49
+2
+George W. Morris
+0.00
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+4.00
+3
+Adam K. Wilson
+3.96
+2
+Jon B. Johansen
+3.95
+1
+Jana L. Morisson
+3.94
+0
+Tina W. Pearson
+3.76
+3
+Tim A. Allen
+3.75
+2
+George W. Morris
+3.74
+2
+John A. Smith
+3.51
+0
+Jill B. Carter
+3.50
+3
+Adam K. Wilson
+3.49
+2
+Jon B. Johansen
+3.00
+1
+Jana L. Morisson
+2.51
+0
+Tina W. Pearson
+2.50
+3
+Tim A. Allen
+2.49
+2
+George W. Morris
+0.00
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+3.45
+3
+Adam K. Wilson
+2.45
+2
+Jon B. Johansen
+3.25
+1
+Jana L. Morisson
+3.56
+0
+Tina W. Pearson
+3.98
+3
+Tim A. Allen
+3.42
+2
+George W. Morris
+2.24
+2
+John A. Smith
+3.75
+0
+Jill B. Carter
+4.00
+3
+Adam K. Wilson
+3.96
+2
+Jon B. Johansen
+3.95
+1
+Jana L. Morisson
+3.94
+0
+Tina W. Pearson
+3.76
+3
+Tim A. Allen
+3.75
+2
+George W. Morris
+3.74
+2
+John A. Smith
+3.51
+0
+Jill B. Carter
+3.50
+3
+Adam K. Wilson
+3.49
+2
+Jon B. Johansen
+3.00
+1
+Jana L. Morisson
+2.51
+0
+Tina W. Pearson
+2.50
+3
+Tim A. Allen
+2.49
+2
+George W. Morris
+0.00
+2

@@ -1,0 +1,11 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator2\DormAndMealPlanCalculator2\bin\Debug\DormAndMealPlanCalculator2.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator2\DormAndMealPlanCalculator2\bin\Debug\DormAndMealPlanCalculator2.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator2\DormAndMealPlanCalculator2\bin\Debug\DormAndMealPlanCalculator2.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator2\DormAndMealPlanCalculator2\obj\Debug\DormAndMealPlanCalculator2.MainForm1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator2\DormAndMealPlanCalculator2\obj\Debug\DormAndMealPlanCalculator2.ChargesForm.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator2\DormAndMealPlanCalculator2\obj\Debug\DormAndMealPlanCalculator2.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator2\DormAndMealPlanCalculator2\obj\Debug\DormAndMealPlanCalculator2.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator2\DormAndMealPlanCalculator2\obj\Debug\DormAndMealPlanCalculator2.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator2\DormAndMealPlanCalculator2\obj\Debug\DormAndMealPlanCalculator2.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator2\DormAndMealPlanCalculator2\obj\Debug\DormAndMealPlanCalculator2.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator2\DormAndMealPlanCalculator2\obj\Debug\DormAndMealPlanCalculator2.csprojResolveAssemblyReference.cache

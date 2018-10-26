@@ -1,0 +1,18 @@
+D:\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\bin\Debug\Blood Pressure Monitor.exe.config
+D:\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\bin\Debug\Blood Pressure Monitor.exe
+D:\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\bin\Debug\Blood Pressure Monitor.pdb
+D:\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\obj\Debug\Blood_Pressure_Monitor.Form1.resources
+D:\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\obj\Debug\Blood_Pressure_Monitor.Properties.Resources.resources
+D:\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\obj\Debug\Blood Pressure Monitor.csproj.GenerateResource.Cache
+D:\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\obj\Debug\Blood Pressure Monitor.csproj.CoreCompileInputs.cache
+D:\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\obj\Debug\Blood Pressure Monitor.exe
+D:\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\obj\Debug\Blood Pressure Monitor.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\bin\Debug\Blood Pressure Monitor.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\bin\Debug\Blood Pressure Monitor.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\bin\Debug\Blood Pressure Monitor.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\obj\Debug\Blood_Pressure_Monitor.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\obj\Debug\Blood_Pressure_Monitor.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\obj\Debug\Blood Pressure Monitor.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\obj\Debug\Blood Pressure Monitor.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\obj\Debug\Blood Pressure Monitor.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Blood Pressure Monitor\Blood Pressure Monitor\obj\Debug\Blood Pressure Monitor.pdb

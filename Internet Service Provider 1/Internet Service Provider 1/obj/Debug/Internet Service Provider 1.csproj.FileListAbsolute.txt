@@ -1,0 +1,20 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Internet Service Provider 1\Internet Service Provider 1\bin\Debug\Internet Service Provider 1.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Internet Service Provider 1\Internet Service Provider 1\bin\Debug\Internet Service Provider 1.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Internet Service Provider 1\Internet Service Provider 1\bin\Debug\Internet Service Provider 1.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Internet Service Provider 1\Internet Service Provider 1\obj\Debug\Internet Service Provider 1.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Internet Service Provider 1\Internet Service Provider 1\obj\Debug\Internet_Service_Provider_1.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Internet Service Provider 1\Internet Service Provider 1\obj\Debug\Internet_Service_Provider_1.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Internet Service Provider 1\Internet Service Provider 1\obj\Debug\Internet Service Provider 1.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Internet Service Provider 1\Internet Service Provider 1\obj\Debug\Internet Service Provider 1.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Internet Service Provider 1\Internet Service Provider 1\obj\Debug\Internet Service Provider 1.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Internet Service Provider 1\Internet Service Provider 1\obj\Debug\Internet Service Provider 1.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Internet Service Provider 1\Internet Service Provider 1\bin\Debug\Internet Service Provider 1.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Internet Service Provider 1\Internet Service Provider 1\bin\Debug\Internet Service Provider 1.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Internet Service Provider 1\Internet Service Provider 1\bin\Debug\Internet Service Provider 1.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Internet Service Provider 1\Internet Service Provider 1\obj\Debug\Internet Service Provider 1.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Internet Service Provider 1\Internet Service Provider 1\obj\Debug\Internet_Service_Provider_1.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Internet Service Provider 1\Internet Service Provider 1\obj\Debug\Internet_Service_Provider_1.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Internet Service Provider 1\Internet Service Provider 1\obj\Debug\Internet Service Provider 1.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Internet Service Provider 1\Internet Service Provider 1\obj\Debug\Internet Service Provider 1.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Internet Service Provider 1\Internet Service Provider 1\obj\Debug\Internet Service Provider 1.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Internet Service Provider 1\Internet Service Provider 1\obj\Debug\Internet Service Provider 1.pdb

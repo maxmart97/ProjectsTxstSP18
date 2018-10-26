@@ -1,0 +1,20 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium_Seating.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium_Seating.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Textbook Coding Projects\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csproj.CoreCompileInputs.cache
+D:\Programming\CIS-2324.252---SP18\Assignments\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe.config
+D:\Programming\CIS-2324.252---SP18\Assignments\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe
+D:\Programming\CIS-2324.252---SP18\Assignments\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.pdb
+D:\Programming\CIS-2324.252---SP18\Assignments\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csprojResolveAssemblyReference.cache
+D:\Programming\CIS-2324.252---SP18\Assignments\Stadium Seating\Stadium Seating\obj\Debug\Stadium_Seating.Form1.resources
+D:\Programming\CIS-2324.252---SP18\Assignments\Stadium Seating\Stadium Seating\obj\Debug\Stadium_Seating.Properties.Resources.resources
+D:\Programming\CIS-2324.252---SP18\Assignments\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csproj.GenerateResource.Cache
+D:\Programming\CIS-2324.252---SP18\Assignments\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csproj.CoreCompileInputs.cache
+D:\Programming\CIS-2324.252---SP18\Assignments\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.exe
+D:\Programming\CIS-2324.252---SP18\Assignments\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.pdb

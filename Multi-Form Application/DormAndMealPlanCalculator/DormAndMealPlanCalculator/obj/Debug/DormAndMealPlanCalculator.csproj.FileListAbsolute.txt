@@ -1,0 +1,32 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\bin\Debug\DormAndMealPlanCalculator.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\bin\Debug\DormAndMealPlanCalculator.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\bin\Debug\DormAndMealPlanCalculator.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.MainForm1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.MealPlanForm.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.pdb
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\bin\Debug\DormAndMealPlanCalculator.exe.config
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.exe
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.pdb
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.csprojResolveAssemblyReference.cache
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.MainForm1.resources
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.MealPlanForm.resources
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.Properties.Resources.resources
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.csproj.GenerateResource.Cache
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\bin\Debug\DormAndMealPlanCalculator.exe
+D:\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\DormAndMealPlanCalculator\DormAndMealPlanCalculator\bin\Debug\DormAndMealPlanCalculator.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator\DormAndMealPlanCalculator\bin\Debug\DormAndMealPlanCalculator.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator\DormAndMealPlanCalculator\bin\Debug\DormAndMealPlanCalculator.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator\DormAndMealPlanCalculator\bin\Debug\DormAndMealPlanCalculator.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.MainForm1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.MealPlanForm.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\DormAndMealPlanCalculator\DormAndMealPlanCalculator\obj\Debug\DormAndMealPlanCalculator.pdb

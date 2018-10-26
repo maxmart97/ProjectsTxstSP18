@@ -1,0 +1,10 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Student Records\Student Records\bin\Debug\Student Records.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Student Records\Student Records\bin\Debug\Student Records.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Student Records\Student Records\bin\Debug\Student Records.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Student Records\Student Records\obj\Debug\Student_Records.Form1.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Student Records\Student Records\obj\Debug\Student_Records.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Student Records\Student Records\obj\Debug\Student Records.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Student Records\Student Records\obj\Debug\Student Records.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Student Records\Student Records\obj\Debug\Student Records.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Student Records\Student Records\obj\Debug\Student Records.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Assignments\Student Records\Student Records\obj\Debug\Student Records.csprojResolveAssemblyReference.cache

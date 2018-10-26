@@ -1,0 +1,10 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Automotive Shop\Automotive Shop\bin\Debug\Automotive Shop.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Automotive Shop\Automotive Shop\bin\Debug\Automotive Shop.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Automotive Shop\Automotive Shop\bin\Debug\Automotive Shop.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Automotive Shop\Automotive Shop\obj\Debug\Automotive_Shop.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Automotive Shop\Automotive Shop\obj\Debug\Automotive Shop.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Automotive Shop\Automotive Shop\obj\Debug\Automotive Shop.csproj.CoreCompileInputs.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Automotive Shop\Automotive Shop\obj\Debug\Automotive Shop.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Automotive Shop\Automotive Shop\obj\Debug\Automotive Shop.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Automotive Shop\Automotive Shop\obj\Debug\Automotive Shop.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\Assignments\Automotive Shop\Automotive Shop\obj\Debug\Automotive_Shop.Form1.resources
