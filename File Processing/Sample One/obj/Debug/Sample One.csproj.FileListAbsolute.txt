@@ -1,0 +1,19 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\02.27.2018 - Tues\File Processing\Sample One\Sample One\bin\Debug\Sample One.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\02.27.2018 - Tues\File Processing\Sample One\Sample One\bin\Debug\Sample One.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\02.27.2018 - Tues\File Processing\Sample One\Sample One\bin\Debug\Sample One.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\02.27.2018 - Tues\File Processing\Sample One\Sample One\obj\Debug\Sample One.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\02.27.2018 - Tues\File Processing\Sample One\Sample One\obj\Debug\Sample_One.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\02.27.2018 - Tues\File Processing\Sample One\Sample One\obj\Debug\Sample_One.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\02.27.2018 - Tues\File Processing\Sample One\Sample One\obj\Debug\Sample One.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\02.27.2018 - Tues\File Processing\Sample One\Sample One\obj\Debug\Sample One.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\02.27.2018 - Tues\File Processing\Sample One\Sample One\obj\Debug\Sample One.pdb
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.27.2018 - Tues\File Processing\Sample One\Sample One\bin\Debug\Sample One.exe.config
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.27.2018 - Tues\File Processing\Sample One\Sample One\bin\Debug\Sample One.exe
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.27.2018 - Tues\File Processing\Sample One\Sample One\bin\Debug\Sample One.pdb
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.27.2018 - Tues\File Processing\Sample One\Sample One\obj\Debug\Sample One.csprojResolveAssemblyReference.cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.27.2018 - Tues\File Processing\Sample One\Sample One\obj\Debug\Sample_One.Form1.resources
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.27.2018 - Tues\File Processing\Sample One\Sample One\obj\Debug\Sample_One.Properties.Resources.resources
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.27.2018 - Tues\File Processing\Sample One\Sample One\obj\Debug\Sample One.csproj.GenerateResource.Cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.27.2018 - Tues\File Processing\Sample One\Sample One\obj\Debug\Sample One.csproj.CoreCompileInputs.cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.27.2018 - Tues\File Processing\Sample One\Sample One\obj\Debug\Sample One.exe
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\02.27.2018 - Tues\File Processing\Sample One\Sample One\obj\Debug\Sample One.pdb

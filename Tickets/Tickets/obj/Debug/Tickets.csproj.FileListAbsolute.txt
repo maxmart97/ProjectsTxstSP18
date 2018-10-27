@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\03.01.2018 - Thurs\Random Numbers\Tickets\Tickets\bin\Debug\Tickets.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\03.01.2018 - Thurs\Random Numbers\Tickets\Tickets\bin\Debug\Tickets.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\03.01.2018 - Thurs\Random Numbers\Tickets\Tickets\bin\Debug\Tickets.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\03.01.2018 - Thurs\Random Numbers\Tickets\Tickets\obj\Debug\Tickets.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\03.01.2018 - Thurs\Random Numbers\Tickets\Tickets\obj\Debug\Tickets.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\03.01.2018 - Thurs\Random Numbers\Tickets\Tickets\obj\Debug\Tickets.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\03.01.2018 - Thurs\Random Numbers\Tickets\Tickets\obj\Debug\Tickets.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\03.01.2018 - Thurs\Random Numbers\Tickets\Tickets\obj\Debug\Tickets.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\03.01.2018 - Thurs\Random Numbers\Tickets\Tickets\obj\Debug\Tickets.pdb

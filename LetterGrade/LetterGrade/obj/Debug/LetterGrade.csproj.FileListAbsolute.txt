@@ -1,0 +1,20 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\03.20.2018 - Tues\LetterGrade\LetterGrade\bin\Debug\LetterGrade.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\03.20.2018 - Tues\LetterGrade\LetterGrade\bin\Debug\LetterGrade.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\03.20.2018 - Tues\LetterGrade\LetterGrade\bin\Debug\LetterGrade.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\03.20.2018 - Tues\LetterGrade\LetterGrade\obj\Debug\LetterGrade.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\03.20.2018 - Tues\LetterGrade\LetterGrade\obj\Debug\LetterGrade.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\03.20.2018 - Tues\LetterGrade\LetterGrade\obj\Debug\LetterGrade.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\03.20.2018 - Tues\LetterGrade\LetterGrade\obj\Debug\LetterGrade.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\03.20.2018 - Tues\LetterGrade\LetterGrade\obj\Debug\LetterGrade.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\03.20.2018 - Tues\LetterGrade\LetterGrade\obj\Debug\LetterGrade.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\03.20.2018 - Tues\LetterGrade\LetterGrade\obj\Debug\LetterGrade.csproj.CoreCompileInputs.cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.20.2018 - Tues\LetterGrade\LetterGrade\bin\Debug\LetterGrade.exe.config
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.20.2018 - Tues\LetterGrade\LetterGrade\bin\Debug\LetterGrade.exe
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.20.2018 - Tues\LetterGrade\LetterGrade\bin\Debug\LetterGrade.pdb
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.20.2018 - Tues\LetterGrade\LetterGrade\obj\Debug\LetterGrade.csprojResolveAssemblyReference.cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.20.2018 - Tues\LetterGrade\LetterGrade\obj\Debug\LetterGrade.Form1.resources
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.20.2018 - Tues\LetterGrade\LetterGrade\obj\Debug\LetterGrade.Properties.Resources.resources
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.20.2018 - Tues\LetterGrade\LetterGrade\obj\Debug\LetterGrade.csproj.GenerateResource.Cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.20.2018 - Tues\LetterGrade\LetterGrade\obj\Debug\LetterGrade.csproj.CoreCompileInputs.cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.20.2018 - Tues\LetterGrade\LetterGrade\obj\Debug\LetterGrade.exe
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.20.2018 - Tues\LetterGrade\LetterGrade\obj\Debug\LetterGrade.pdb

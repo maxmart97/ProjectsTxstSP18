@@ -1,0 +1,21 @@
+D:\College Stuff\CIS 2324.252 - SP18\04.24.2018 - Tues\Class Example\Class Example\bin\Debug\Class Example.exe.config
+D:\College Stuff\CIS 2324.252 - SP18\04.24.2018 - Tues\Class Example\Class Example\bin\Debug\Class Example.exe
+D:\College Stuff\CIS 2324.252 - SP18\04.24.2018 - Tues\Class Example\Class Example\bin\Debug\Class Example.pdb
+D:\College Stuff\CIS 2324.252 - SP18\04.24.2018 - Tues\Class Example\Class Example\obj\Debug\Class Example.csprojResolveAssemblyReference.cache
+D:\College Stuff\CIS 2324.252 - SP18\04.24.2018 - Tues\Class Example\Class Example\obj\Debug\Class_Example.MainForm.resources
+D:\College Stuff\CIS 2324.252 - SP18\04.24.2018 - Tues\Class Example\Class Example\obj\Debug\Class_Example.Properties.Resources.resources
+D:\College Stuff\CIS 2324.252 - SP18\04.24.2018 - Tues\Class Example\Class Example\obj\Debug\Class_Example.SecondForm.resources
+D:\College Stuff\CIS 2324.252 - SP18\04.24.2018 - Tues\Class Example\Class Example\obj\Debug\Class Example.csproj.GenerateResource.Cache
+D:\College Stuff\CIS 2324.252 - SP18\04.24.2018 - Tues\Class Example\Class Example\obj\Debug\Class Example.exe
+D:\College Stuff\CIS 2324.252 - SP18\04.24.2018 - Tues\Class Example\Class Example\obj\Debug\Class Example.pdb
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\04.24.2018 - Tues\Class Example\Class Example\bin\Debug\Class Example.exe.config
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\04.24.2018 - Tues\Class Example\Class Example\bin\Debug\Class Example.exe
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\04.24.2018 - Tues\Class Example\Class Example\bin\Debug\Class Example.pdb
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\04.24.2018 - Tues\Class Example\Class Example\obj\Debug\Class Example.csprojResolveAssemblyReference.cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\04.24.2018 - Tues\Class Example\Class Example\obj\Debug\Class_Example.MainForm.resources
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\04.24.2018 - Tues\Class Example\Class Example\obj\Debug\Class_Example.Properties.Resources.resources
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\04.24.2018 - Tues\Class Example\Class Example\obj\Debug\Class_Example.SecondForm.resources
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\04.24.2018 - Tues\Class Example\Class Example\obj\Debug\Class Example.csproj.GenerateResource.Cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\04.24.2018 - Tues\Class Example\Class Example\obj\Debug\Class Example.csproj.CoreCompileInputs.cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\04.24.2018 - Tues\Class Example\Class Example\obj\Debug\Class Example.exe
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\04.24.2018 - Tues\Class Example\Class Example\obj\Debug\Class Example.pdb

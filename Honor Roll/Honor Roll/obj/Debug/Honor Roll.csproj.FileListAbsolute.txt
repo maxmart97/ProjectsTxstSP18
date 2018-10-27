@@ -1,0 +1,19 @@
+D:\College Stuff\CIS 2324.252 - SP18\03.29.2018 - Thurs\Honor Roll\Honor Roll\bin\Debug\Honor Roll.exe.config
+D:\College Stuff\CIS 2324.252 - SP18\03.29.2018 - Thurs\Honor Roll\Honor Roll\bin\Debug\Honor Roll.exe
+D:\College Stuff\CIS 2324.252 - SP18\03.29.2018 - Thurs\Honor Roll\Honor Roll\bin\Debug\Honor Roll.pdb
+D:\College Stuff\CIS 2324.252 - SP18\03.29.2018 - Thurs\Honor Roll\Honor Roll\obj\Debug\Honor Roll.csprojResolveAssemblyReference.cache
+D:\College Stuff\CIS 2324.252 - SP18\03.29.2018 - Thurs\Honor Roll\Honor Roll\obj\Debug\Honor_Roll.Form1.resources
+D:\College Stuff\CIS 2324.252 - SP18\03.29.2018 - Thurs\Honor Roll\Honor Roll\obj\Debug\Honor_Roll.Properties.Resources.resources
+D:\College Stuff\CIS 2324.252 - SP18\03.29.2018 - Thurs\Honor Roll\Honor Roll\obj\Debug\Honor Roll.csproj.GenerateResource.Cache
+D:\College Stuff\CIS 2324.252 - SP18\03.29.2018 - Thurs\Honor Roll\Honor Roll\obj\Debug\Honor Roll.exe
+D:\College Stuff\CIS 2324.252 - SP18\03.29.2018 - Thurs\Honor Roll\Honor Roll\obj\Debug\Honor Roll.pdb
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.29.2018 - Thurs\Honor Roll\Honor Roll\bin\Debug\Honor Roll.exe.config
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.29.2018 - Thurs\Honor Roll\Honor Roll\bin\Debug\Honor Roll.exe
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.29.2018 - Thurs\Honor Roll\Honor Roll\bin\Debug\Honor Roll.pdb
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.29.2018 - Thurs\Honor Roll\Honor Roll\obj\Debug\Honor Roll.csprojResolveAssemblyReference.cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.29.2018 - Thurs\Honor Roll\Honor Roll\obj\Debug\Honor_Roll.Form1.resources
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.29.2018 - Thurs\Honor Roll\Honor Roll\obj\Debug\Honor_Roll.Properties.Resources.resources
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.29.2018 - Thurs\Honor Roll\Honor Roll\obj\Debug\Honor Roll.csproj.GenerateResource.Cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.29.2018 - Thurs\Honor Roll\Honor Roll\obj\Debug\Honor Roll.csproj.CoreCompileInputs.cache
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.29.2018 - Thurs\Honor Roll\Honor Roll\obj\Debug\Honor Roll.exe
+D:\Programming\CIS-2324.252---SP18\Daily Class Files\03.29.2018 - Thurs\Honor Roll\Honor Roll\obj\Debug\Honor Roll.pdb
