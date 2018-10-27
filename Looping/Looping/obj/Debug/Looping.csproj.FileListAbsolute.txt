@@ -1,0 +1,9 @@
+D:\College Stuff\Spring 2018\CIS 2324.252\02.22.2018 - Thurs\Looping\Looping\bin\Debug\Looping.exe.config
+D:\College Stuff\Spring 2018\CIS 2324.252\02.22.2018 - Thurs\Looping\Looping\bin\Debug\Looping.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\02.22.2018 - Thurs\Looping\Looping\bin\Debug\Looping.pdb
+D:\College Stuff\Spring 2018\CIS 2324.252\02.22.2018 - Thurs\Looping\Looping\obj\Debug\Looping.csprojResolveAssemblyReference.cache
+D:\College Stuff\Spring 2018\CIS 2324.252\02.22.2018 - Thurs\Looping\Looping\obj\Debug\Looping.Form1.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\02.22.2018 - Thurs\Looping\Looping\obj\Debug\Looping.Properties.Resources.resources
+D:\College Stuff\Spring 2018\CIS 2324.252\02.22.2018 - Thurs\Looping\Looping\obj\Debug\Looping.csproj.GenerateResource.Cache
+D:\College Stuff\Spring 2018\CIS 2324.252\02.22.2018 - Thurs\Looping\Looping\obj\Debug\Looping.exe
+D:\College Stuff\Spring 2018\CIS 2324.252\02.22.2018 - Thurs\Looping\Looping\obj\Debug\Looping.pdb
